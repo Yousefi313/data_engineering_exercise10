@@ -1,3 +1,5 @@
+print("This is the version from TEAMMATE")
+
 def function_y():
     print("This is function Y added by teammate.")
 
